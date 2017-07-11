@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="viewpager_imags">
+        <item>@drawable/ic_one</item>
+        <item>@drawable/ic_two</item>
+        <item>@drawable/ic_three</item>
+        <item>@drawable/ic_four</item>
+    </integer-array>
+
+</resources>
