@@ -12,21 +12,21 @@
 
 效果图：
 
-<img src="https://github.com/vrtto/TagViewPager/blob/master/gifs/photo1.jpg?raw=true" width=268 height=457 />
+<img src="https://github.com/vrtto/TagViewPager/blob/master/imags/photo1.jpg?raw=true" width=268 height=457 />
 
-<img src="https://github.com/vrtto/TagViewPager/blob/master/gifs/photo2.jpg?raw=true" width=268 height=457 />
+<img src="https://github.com/vrtto/TagViewPager/blob/master/imags/photo2.jpg?raw=true" width=268 height=457 />
 
 ## 编辑标签
 
 效果图：
 
-<img src="https://github.com/vrtto/TagViewPager/blob/master/gifs/photo3.jpg?raw=true" width=268 height=457 />
+<img src="https://github.com/vrtto/TagViewPager/blob/master/imags/photo3.jpg?raw=true" width=268 height=457 />
 
 ## 删除标签
 
 效果图：
 
-<img src="https://github.com/vrtto/TagViewPager/blob/master/gifs/photo4.jpg?raw=true" width=268 height=457 />
+<img src="https://github.com/vrtto/TagViewPager/blob/master/imags/photo4.jpg?raw=true" width=268 height=457 />
 
 ## Thanks
 
